@@ -1,0 +1,24 @@
+body{
+    background-color: lightblue;
+}
+p{
+    background-color: #66ccff;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+h1 {
+  background-color: #0099ff;
+  overflow: hidden;
+}
+/* img{
+    align-items: center;
+} */
+/* Taken from W3 School directly. Not my own code*/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
